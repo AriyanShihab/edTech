@@ -42,3 +42,38 @@ date: 27:07:2022
 .as-btn-color {
     color: #0b1120;
 }
+
+
+/* slide part start */
+
+.as-slide {
+    min-height: 80vh;
+    position: relative;
+    z-index: 1;
+}
+
+.slide-one {
+    background: url(../images/cover/cover-1.png) no-repeat left top;
+    background-size: cover;
+}
+
+.slide-two {
+    background: url(../images/cover/cover-2.jpg) no-repeat left top;
+    background-size: cover;
+}
+
+.slide-three {
+    background: url(../images/cover/cover-3.jpg) no-repeat right top;
+    background-size: cover;
+}
+
+.as-slide::before {
+    position: absolute;
+    content: "";
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background: #0b1120b7;
+    z-index: -1;
+}
