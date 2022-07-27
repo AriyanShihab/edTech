@@ -1,0 +1,44 @@
+/* 
+file type: coustom stylsheet for assignment -03
+author: ariyan Shihab
+date: 27:07:2022
+
+
+*/
+
+.custom-toggler .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgb(56, 189, 248)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+.custom-toggler.navbar-toggler {
+    border-color: #38bff830;
+}
+
+* {
+    font-family: "Poppins", sans-serif;
+}
+
+.as-hf {
+    font-family: "Fredoka One", cursive;
+    letter-spacing: 2px;
+}
+
+.as-main-bg {
+    background-color: #0e1527;
+}
+
+.as-any-card-bg {
+    background-color: #0b1120;
+}
+
+.as-primary-color {
+    color: #38bdf8;
+}
+
+.as-btn-bg {
+    background-color: #38bdf8;
+}
+
+.as-btn-color {
+    color: #0b1120;
+}

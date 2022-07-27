@@ -1,0 +1,30 @@
+requerment for assigment -03
+
+======>>>basic requerments:
+
+ 1: must use a single css framework either      bootstrap or tailwind
+ 2: the websitwe has to be responsive ! without coustom media quarey  
+ 3: create a slider exactli like the demo figma file
+ 4: dont use lorem ipsum anywhere in the website.
+ 5: display minimum 6 course
+ 6: display minimum 3 social icon in the footer with clikcble function
+ 7: never use more than 5% vanila css
+ 8: host the site on netlify (recomended) we can use github  also
+ 9: navbar nust be collapsebele
+10: the course card: in mobile  image in the top and text will be in the bottom 
+11: in tab device, the course card will take full width with image in the left side
+
+
+ ======>>>bonous requerments:
+
+   1: create the ready to join section and if someone clikc register now button it will open a modal
+   2: in the faq section, create some realistic question; here is the list of the question:
+      a: what are defarence between cssgrid and felexbox?
+      b: what are defarence between bootstrap and tailwind
+      c: what is css box model?
+      d: what is html5 cemantic tags
+    
+  3: create the trusted comapny section that will nwver display in mobile and tab
+  4: do minumum 6 github resoanble push with commit message
+
+
