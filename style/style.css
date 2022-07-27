@@ -41,6 +41,14 @@ body {
 
 .as-btn-bg {
     background-color: #38bdf8;
+    transition: 0.5s;
+}
+
+.as-btn-bg:hover {
+    color: #38bdf8;
+    background: transparent;
+    border: 1px solid #38bdf8;
+    border-radius: 0;
 }
 
 .as-btn-color {
@@ -99,11 +107,6 @@ body {
     min-height: 250px;
 }
 
-
-/* media quary */
-
-@media screen and (max-width: 576px) {
-    .as-w-50 {
-        width: 100%;
-    }
+.student-card img {
+    width: 100% !important;
 }
