@@ -93,6 +93,18 @@ body {
     z-index: -1;
 }
 
+.as-left-arrow {
+    left: -20px;
+    height: 40px;
+    width: 40px;
+}
+
+.as-right-arrow {
+    right: -10px;
+    height: 40px;
+    width: 40px;
+}
+
 
 /* course */
 
@@ -128,8 +140,4 @@ body {
     color: #0e1527;
     border: 0;
     box-shadow: 0;
-}
-
-.text-yt {
-    color: #e73b7a;
 }
