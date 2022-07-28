@@ -18,11 +18,6 @@ date: 27:07:2022
     font-family: "Poppins", sans-serif;
 }
 
-.as-hf {
-    font-family: "Fredoka One", cursive;
-    letter-spacing: 2px;
-}
-
 body {
     background-color: #0e1527;
 }
@@ -133,4 +128,8 @@ body {
     color: #0e1527;
     border: 0;
     box-shadow: 0;
+}
+
+.text-yt {
+    color: #e73b7a;
 }
